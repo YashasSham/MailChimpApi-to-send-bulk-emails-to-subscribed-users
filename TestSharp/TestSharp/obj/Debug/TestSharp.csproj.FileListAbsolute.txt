@@ -1,0 +1,11 @@
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\TestSharp.exe.config
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\TestSharp.exe
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\TestSharp.pdb
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\MailChimp.dll
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\ServiceStack.Text.dll
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\bin\Debug\ServiceStack.Text.xml
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\obj\Debug\TestSharp.csprojResolveAssemblyReference.cache
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\obj\Debug\TestSharp.exe
+c:\users\yashas\documents\visual studio 2012\Projects\TestSharp\TestSharp\obj\Debug\TestSharp.pdb
+C:\Users\yashas\Documents\Visual Studio 2012\Projects\TestSharp\TestSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yashas\Documents\Visual Studio 2012\Projects\TestSharp\TestSharp\bin\Debug\Newtonsoft.Json.xml

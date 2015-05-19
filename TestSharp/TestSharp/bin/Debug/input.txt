@@ -1,0 +1,9 @@
+{   
+    "serverTime": "2013-08-12 02:45:55,558",
+    "data": [
+       "All this is about confirmation",
+       "yashas.sham@gmail.com",
+       "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    ] 
+
+}
